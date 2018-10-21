@@ -18,6 +18,9 @@ print(teste[::-1])
 #retorna a posicao onde inicia uma palavra
 print(teste.find('python'))
 
+#multiplica string
+print((teste + ' ')  *2)
+
 
 # In[24]:
 
