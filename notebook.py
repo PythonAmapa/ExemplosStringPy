@@ -12,6 +12,8 @@ teste = "Aula de analise de sentimentos e python basico"
 
 len(teste)
 
+#teste de inversao
+print(teste[::-1])
 
 # In[24]:
 
