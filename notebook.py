@@ -5,8 +5,6 @@
 
 
 teste = "Aula de analise de sentimentos e python basico"
-
-
 # In[23]:
 
 
@@ -21,6 +19,11 @@ print(teste.find('python'))
 #multiplica string
 print((teste + ' ')  *2)
 
+#uso de apostrofes: para usar palavras com apostrofe, use aspas duplas
+print("levi's")
+
+#quebrando a linha em uma string. basta colocar o "\n"
+print("Aula de analise de sentimentos e\n python basico.")
 
 # In[24]:
 
