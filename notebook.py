@@ -6,7 +6,6 @@
 
 teste = "Aula de analise de sentimentos e python basico"
 
-
 # In[23]:
 
 
@@ -20,6 +19,9 @@ print(teste.find('python'))
 
 #multiplica string
 print((teste + ' ')  *2)
+
+#uso de apostrofes: para usar palavras com apostrofe, use aspas duplas
+print("levi's")
 
 
 # In[24]:
